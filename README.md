@@ -4,6 +4,6 @@
 
 ## Módulo 02 - Front-end
 
-- DOM
+- Events
 
 ###### tags: `módulo 2` `DOM` `JS`
